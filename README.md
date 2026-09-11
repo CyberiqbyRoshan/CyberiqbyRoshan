@@ -1,266 +1,359 @@
 <div align="center">
 
-# 👋 Hi, I'm Roshan Padhy
-
-### 🔐 Cybersecurity Enthusiast | 🕵️ Digital Forensics Learner | 💻 Developer
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=80&lines=Hi%2C+I'm+Roshan+Padhy+%F0%9F%91%8B;Welcome+to+CyberiqbyRoshan+%F0%9F%94%90;Cybersecurity+%7C+Digital+Forensics+%7C+Programming;Learn+%E2%86%92+Practice+%E2%86%92+Build+%E2%86%92+Secure" alt="Typing Animation"/>
+
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=70&lines=Welcome+to+CyberiqbyRoshan+%F0%9F%94%90;Cybersecurity+%7C+Digital+Forensics;Learn+%7C+Build+%7C+Investigate+%7C+Secure;Turning+Curiosity+Into+Cybersecurity+Skills+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=CyberiqbyRoshan&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-<br>
-
-<a href="https://www.linkedin.com/in/roshan-padhy-5ba361400/">
-<img src="https://img.shields.io/badge/LinkedIn-Roshan%20Padhy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<br><br>
 
 <a href="https://www.youtube.com/channel/UCCO7A777FZtR9i23PXIb5NQ">
-<img src="https://img.shields.io/badge/YouTube-CyberiqbyRoshan-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://img.shields.io/badge/YouTube-CyberiqbyRoshan-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/roshan-padhy-5ba361400/">
+<img src="https://img.shields.io/badge/LinkedIn-Roshan%20Padhy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+## 👨‍💻 Who Am I?
 
-Hi! I'm **Roshan Padhy**, a passionate learner exploring the world of **Cybersecurity, Digital Forensics, Networking, Programming and Technology**.
+<img align="right" width="330" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-I enjoy understanding how computer systems work, how networks communicate, how cyber attacks happen, how digital evidence can be investigated, and how technology can be secured.
+Hi! I'm **Roshan Padhy**.
 
-I'm continuously learning through **hands-on practice, experiments, projects, labs and real-world scenarios**.
+I'm a **Cybersecurity enthusiast and Digital Forensics learner** interested in understanding computers, networks, operating systems, digital evidence and security technologies.
 
-My goal is not just to learn tools, but to understand the **concept behind the tool** and know **when, why and how it should be used**.
+I enjoy learning through:
+
+* 🔬 Hands-on experimentation
+* 🧪 Cybersecurity labs
+* 💻 Programming
+* 🌐 Networking
+* 🕵️ Digital forensics
+* 🛠️ Security tools
+* 🚀 Building projects
+
+I'm currently focused on developing a strong foundation rather than simply collecting tools.
+
+<br clear="right"/>
 
 ---
 
 # 🎯 My Motivation
 
-> ### **"Learn. Build. Investigate. Secure."**
+### **"Don't just use the tool. Understand what happens behind the tool."**
 
-My motivation comes from curiosity — understanding what happens behind the screen.
+Cybersecurity is a continuous journey.
 
-I believe that cybersecurity is much more than memorizing commands or using security tools.
-
-It is about:
+My motivation is to understand:
 
 ```text
-Understand the Technology
-        ↓
-Understand the Threat
-        ↓
-Think Like an Attacker
-        ↓
-Investigate Like a Forensic Analyst
-        ↓
-Defend Like a Security Professional
-        ↓
-Build Something Better
+How systems work
+       ↓
+How networks communicate
+       ↓
+How vulnerabilities appear
+       ↓
+How attacks happen
+       ↓
+How evidence can be investigated
+       ↓
+How systems can be defended
+       ↓
+How better security solutions can be built
 ```
 
-I want to continuously improve my technical knowledge, build meaningful projects and eventually contribute to the cybersecurity community by making security learning more **practical, accessible and understandable**.
+I want to keep improving my technical skills through **learning, practice, experimentation and projects**.
 
 ---
 
-# 🔐 My Cybersecurity Interests
+# 🔐 My Cybersecurity Journey
 
-I'm especially interested in:
+<div align="center">
 
-* 🔎 Cybersecurity
-* 🕵️ Digital Forensics
-* 🌐 Network Security
-* 📡 Network Analysis
-* 🛡️ Defensive Security
-* 🚨 Incident Response
-* 🧪 Malware Analysis
-* 🔬 Digital Evidence Investigation
-* 🌍 Web Security
-* 🧑‍💻 Ethical Hacking
-* 🔍 OSINT & Information Gathering
-* 🤖 AI + Cybersecurity
-* 💻 Operating Systems
-* 🗄️ Databases
-* 🧰 Security Tools & Automation
+```text
+          🧠 LEARN
+             │
+             ▼
+       🌐 UNDERSTAND
+             │
+             ▼
+        🧪 PRACTICE
+             │
+             ▼
+        💻 BUILD
+             │
+             ▼
+       🔎 INVESTIGATE
+             │
+             ▼
+        🛡️ SECURE
+             │
+             ▼
+        🚀 IMPROVE
+```
+
+</div>
 
 ---
 
-# 🛠️ Skills & Technologies
+# 🧰 Skills & Technologies
 
 ## 💻 Programming
 
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+
 </p>
+
+**C++ • Python**
 
 ---
 
 ## 🗄️ Databases
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+
 </p>
+
+**MySQL • MongoDB • Oracle**
 
 ---
 
 ## 🖥️ Operating Systems
 
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" />
+
 </p>
 
+**Kali Linux • Ubuntu • Windows**
+
 ---
 
-## 🧪 Virtualization
+## 💻 Development Environment
 
-<p>
-<img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+
 </p>
 
----
-
-## 🔎 Cybersecurity & Forensics Tools
-
-<p>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-<img src="https://img.shields.io/badge/Autopsy-00008B?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/FTK_Imager-333333?style=for-the-badge&logoColor=white">
-</p>
+**VS Code**
 
 ---
 
-## ⚙️ System & Command-Line
+# 🔎 Cybersecurity Tools
 
-<p>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/Command_Prompt-000000?style=for-the-badge&logo=windows-terminal&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</p>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Autopsy-00008B?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/FTK%20Imager-333333?style=for-the-badge&logoColor=white"/>
 
-## 🤖 AI & Development Tools
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white">
-<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white">
-</p>
-
----
-
-## 🌐 Other Skills
-
-* 🌍 Web Browsing & Technical Research
-* 🔎 Information Gathering
-* 🖥️ System Exploration
-* 🐧 Linux Environment
-* 🪟 Windows Environment
-* 🗄️ Database Management
-* 🧰 Security Tool Usage
-* 💻 Virtual Machine Environments
-* 📚 Technical Learning & Documentation
-
----
-
-# 🧠 My Learning Approach
-
-I believe in **learning by doing**.
+### Tools I'm learning / practicing:
 
 ```text
-📚 Learn the Concept
-        ↓
-🧠 Understand How It Works
-        ↓
-💻 Practice
-        ↓
-🧪 Experiment
-        ↓
-🛠️ Build Projects
-        ↓
-🔎 Investigate Problems
-        ↓
-🛡️ Improve Security
-        ↓
-📖 Share Knowledge
-```
-
-> **Don't just learn the command — understand what happens behind it.**
-
----
-
-# 🚀 Projects & Vision
-
-I'm interested in building projects that combine:
-
-**Cybersecurity + Digital Forensics + Software Development + AI**
-
-## 🔐 ForensiVault
-
-A Digital Evidence Management System focused on cybersecurity and digital-forensics workflows.
-
-Key concepts include:
-
-* 📂 Evidence Management
-* 🔗 Chain of Custody
-* #️⃣ Hash Verification
-* 📝 Investigation Management
-* 📊 Investigation Dashboard
-* 📄 Forensic Report Generation
-* 🔐 Authentication & Access Control
-* 📋 Activity & Audit Logs
-
----
-
-## 🛡️ INNOVISION
-
-A cybersecurity learning and attack-simulation concept designed around:
-
-```text
-ATTACK
-  ↓
-DETECTION
-  ↓
-INVESTIGATION
-  ↓
-RESPONSE
-  ↓
-DEFENSE
-  ↓
-REPORTING
-```
-
-The vision is to make cybersecurity education more **interactive, practical and scenario-based**.
-
----
-
-# 📚 Currently Exploring
-
-```text
-🔐 Cybersecurity
-🕵️ Digital Forensics
-🌐 Networking
-🐧 Linux
-🪟 Windows
-🐍 Python
-⚡ C++
-🗄️ MySQL
-🍃 MongoDB
 🔎 Nmap
 🦈 Wireshark
 🌐 Burp Suite
 💿 Autopsy
 🔬 FTK Imager
-💻 PowerShell
-⌨️ CMD
-🤖 AI Tools
+```
+
+---
+
+# ⚙️ System & Command-Line
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
+
+---
+
+# 🖥️ Virtualization
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+
+</div>
+
+I use virtual environments to safely explore different operating systems and cybersecurity environments.
+
+---
+
+# 🤖 AI Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude%20AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+I'm interested in exploring how **AI can assist software development, cybersecurity learning, investigation and security workflows**.
+
+---
+
+# 🌐 Other Skills
+
+* 🌍 Web Browsing & Technical Research
+* 🔎 Information Gathering
+* 💻 Computer Systems
+* 🌐 Networking Fundamentals
+* 🐧 Linux Environment
+* 🪟 Windows Environment
+* 🗄️ Database Fundamentals
+* 🧰 Security Tool Usage
+* 🖥️ Virtual Machines
+* 📚 Technical Documentation
+
+---
+
+# 🕵️ Digital Forensics
+
+One of my major areas of interest is **Digital Forensics**.
+
+I'm interested in learning how investigators can:
+
+```text
+📁 Collect Digital Evidence
+        ↓
+🔐 Preserve Evidence
+        ↓
+🔎 Examine Data
+        ↓
+🧩 Find Relevant Artifacts
+        ↓
+📝 Analyze Findings
+        ↓
+📄 Document Results
+```
+
+Areas I'm exploring:
+
+* 💿 Disk Forensics
+* 🌐 Network Forensics
+* 🧠 Memory Forensics
+* 📱 Digital Evidence
+* 🔍 Artifact Analysis
+* 📝 Forensic Documentation
+
+---
+
+# 🚀 Projects & Ideas
+
+## 🔐 ForensiVault
+
+**ForensiVault** is a Digital Evidence Management System concept focused on cybersecurity and digital-forensics workflows.
+
+### Core ideas:
+
+* 📂 Evidence Management
+* 🔗 Chain of Custody
+* #️⃣ Hash Verification
+* 🔐 Authentication
+* 👥 Role-Based Access
+* 📋 Activity Logs
+* 📊 Investigation Dashboard
+* 📄 Forensic Report Generation
+* 🔎 Evidence Search & Filtering
+
+---
+
+## 🛡️ INNOVISION
+
+**INNOVISION** is a cybersecurity learning and attack-simulation concept.
+
+The core learning cycle:
+
+```text
+⚔️ ATTACK
+    ↓
+🚨 DETECTION
+    ↓
+🔎 INVESTIGATION
+    ↓
+🧠 ANALYSIS
+    ↓
+🛡️ DEFENSE
+    ↓
+📋 REPORTING
+```
+
+The vision is to make cybersecurity learning more **interactive, practical and scenario-based**.
+
+---
+
+# 📚 What I'm Learning
+
+<div align="center">
+
+| Area                  | Focus                                      |
+| --------------------- | ------------------------------------------ |
+| 🔐 Cybersecurity      | Security fundamentals & practical learning |
+| 🕵️ Digital Forensics | Evidence & investigation                   |
+| 🌐 Networking         | Network concepts & analysis                |
+| 🐍 Python             | Programming & automation                   |
+| ⚡ C++                 | Programming fundamentals                   |
+| 🐧 Linux              | Linux & Kali environments                  |
+| 🪟 Windows            | Windows administration & commands          |
+| 🗄️ Databases         | MySQL & MongoDB                            |
+| 🔎 Security Tools     | Nmap, Wireshark, Burp Suite                |
+| 🔬 Forensics Tools    | Autopsy & FTK Imager                       |
+| 🤖 AI                 | AI-assisted development & security         |
+
+</div>
+
+---
+
+# 🧪 My Lab Environment
+
+```text
+                 🧑‍💻 ROSHAN'S CYBER LAB
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+   🐧 Kali Linux      🪟 Windows       🐧 Ubuntu
+        │                │                │
+        └────────────────┼────────────────┘
+                         │
+                         ▼
+                 🖥️ Virtual Machines
+                  ├── VirtualBox
+                  └── VMware
+                         │
+                         ▼
+                  🔎 Security Tools
+             ├── Nmap
+             ├── Wireshark
+             ├── Burp Suite
+             ├── Autopsy
+             └── FTK Imager
 ```
 
 ---
@@ -269,149 +362,134 @@ The vision is to make cybersecurity education more **interactive, practical and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CyberiqbyRoshan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="Roshan's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=CyberiqbyRoshan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberiqbyRoshan&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberiqbyRoshan&theme=github-dark&hide_border=false" alt="GitHub Streak">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberiqbyRoshan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberiqbyRoshan&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
 
-# 📈 My Growth Mindset
+# 🐍 My Contribution Journey
 
-I know that cybersecurity is a huge field and there is always something new to learn.
+<div align="center">
 
-So instead of trying to know everything at once, I focus on improving **one skill at a time**.
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+
+</div>
+
+---
+
+# 📈 My Learning Philosophy
+
+> **Consistency beats intensity.**
+
+I don't expect to master cybersecurity overnight.
+
+Instead, I believe in improving every day:
 
 ```text
-Today → Learn
-Tomorrow → Practice
-Next → Build
-Then → Investigate
-Finally → Secure
+1% better every day
+        ↓
+More concepts
+        ↓
+More practice
+        ↓
+More projects
+        ↓
+More experience
+        ↓
+Better cybersecurity skills
 ```
-
-Every project, challenge and mistake is part of the learning process.
 
 ---
 
 # 🎥 YouTube
 
-I also use YouTube to share my technical journey, cybersecurity learning and projects.
+I also have a YouTube channel where I can share my **learning journey, cybersecurity content, projects and technical knowledge**.
 
 <div align="center">
 
 <a href="https://www.youtube.com/channel/UCCO7A777FZtR9i23PXIb5NQ">
 
-<img src="https://img.shields.io/badge/▶%20Visit%20My%20YouTube%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://img.shields.io/badge/▶%20CYBERIQBYROSHAN-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 
-</a>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-### 💼 LinkedIn
-
-<a href="https://www.linkedin.com/in/roshan-padhy-5ba361400/">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
 
-### 🎥 YouTube
+**Cybersecurity • Technology • Learning • Projects**
+
+</div>
+
+---
+
+# 💼 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/roshan-padhy-5ba361400/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Roshan%20Padhy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
 
 <a href="https://www.youtube.com/channel/UCCO7A777FZtR9i23PXIb5NQ">
-<img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+
+<img src="https://img.shields.io/badge/YouTube-CyberiqbyRoshan-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+
 </a>
 
 </div>
 
 ---
 
-# 🧑‍💻 Developer Profile
+# 🧠 My Mindset
 
-```yaml
-name: Roshan Padhy
-username: CyberiqbyRoshan
-
-focus:
-  - Cybersecurity
-  - Digital Forensics
-  - Networking
-  - Programming
-  - Security Research
-
-programming:
-  - C++
-  - Python
-
-databases:
-  - MySQL
-  - MongoDB
-
-operating_systems:
-  - Kali Linux
-  - Ubuntu
-  - Windows
-
-security_tools:
-  - Nmap
-  - Wireshark
-  - Burp Suite
-  - Autopsy
-  - FTK Imager
-
-system_tools:
-  - PowerShell
-  - CMD
-  - VS Code
-
-virtualization:
-  - Oracle VirtualBox
-  - VMware
-
-ai_tools:
-  - Claude
-  - Antigravity
-
-mindset:
-  - Learn
-  - Practice
-  - Build
-  - Investigate
-  - Secure
+```text
+┌─────────────────────────────────────┐
+│                                     │
+│       🧠 STAY CURIOUS               │
+│                                     │
+│       📚 KEEP LEARNING              │
+│                                     │
+│       🧪 KEEP PRACTICING            │
+│                                     │
+│       💻 KEEP BUILDING              │
+│                                     │
+│       🔎 KEEP INVESTIGATING         │
+│                                     │
+│       🛡️ KEEP SECURING              │
+│                                     │
+└─────────────────────────────────────┘
 ```
 
 ---
 
 # 💡 My Vision
 
-> ### **"I don't just want to use technology. I want to understand it, build with it, investigate it, and secure it."**
+### **"Understand technology. Build with it. Investigate it. Secure it."**
 
-I am at the beginning of my journey, but I'm committed to continuously learning, experimenting and building.
+My journey in cybersecurity is just beginning.
 
-Every line of code, every command, every lab and every project takes me one step closer to becoming a better cybersecurity professional.
+Every command I learn, every program I write, every lab I complete and every project I build is another step forward.
+
+🚀 **The goal isn't to know everything.
+The goal is to never stop learning.**
 
 ---
 
 <div align="center">
 
-# 🔐 Learn. Build. Investigate. Secure. 🚀
+## 🔐 Learn • Build • Investigate • Secure
 
 ### **Roshan Padhy**
 
-**CyberiqbyRoshan**
+### `CyberiqbyRoshan`
 
 <br>
 
@@ -419,6 +497,6 @@ Every line of code, every command, every lab and every project takes me one step
 
 <br>
 
-⭐ **Thanks for visiting my profile!** ⭐
+⭐ **Thanks for visiting my GitHub profile!** ⭐
 
 </div>
